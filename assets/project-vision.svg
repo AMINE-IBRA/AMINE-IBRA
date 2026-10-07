@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="174" viewBox="0 0 1200 174" role="img" aria-labelledby="title desc">
+<title id="title">FitCheck Vision</title><desc id="desc">Open the FitCheck Vision repository.</desc>
+<rect width="1200" height="174" rx="13" fill="#111a21" stroke="#3c4e59"/>
+<path d="M105 0V174M850 0V174" stroke="#354752"/>
+<path d="M0 172H1200" stroke="#ad9bcf" stroke-width="3"/>
+<text x="28" y="102" fill="#ad9bcf" font-family="Consolas, Menlo, monospace" font-size="30" font-weight="700">03</text>
+<text x="140" y="48" fill="#8ea8b4" font-family="Consolas, Menlo, monospace" font-size="17" letter-spacing="2">COMPUTER VISION / REAL TIME</text>
+<text x="140" y="106" fill="#eff2f0" font-family="Arial, Helvetica, sans-serif" font-size="45" font-weight="800" letter-spacing="-1">FitCheck Vision</text>
+<text x="140" y="144" fill="#ad9bcf" font-family="Consolas, Menlo, monospace" font-size="18">VIEW REPOSITORY ↗</text>
+
+<rect x="927" y="35" width="168" height="105" rx="7" fill="#1e2b37" stroke="#987ebc"/>
+<path d="M948 57h23m-23 0v22M1074 57h-23m23 0v22M948 119h23m-23 0V97M1074 119h-23m23 0V97" fill="none" stroke="#b99edb" stroke-width="3"/>
+<path d="M989 90c8-19 37-20 48 0m-48 0v26h48V90" fill="none" stroke="#7aaebf" stroke-width="2"/>
+<circle cx="1108" cy="43" r="5" fill="#ad9bcf"/>
+</svg>

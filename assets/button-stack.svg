@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="220" height="52" viewBox="0 0 220 52" role="img" aria-label="TECH STACK">
-<rect x="1" y="1" width="218" height="50" rx="9" fill="#142332" stroke="#79dbd0" stroke-opacity=".7"/>
-<rect x="10" y="10" width="32" height="32" rx="6" fill="#213b49"/>
-<text x="26" y="31" text-anchor="middle" fill="#79dbd0" font-family="Consolas, Menlo, monospace" font-size="13" font-weight="700">04</text>
-<text x="53" y="32" fill="#edf3f8" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing=".6">TECH STACK</text>
-<path d="M194 26h14m-5-5 5 5-5 5" fill="none" stroke="#79dbd0" stroke-width="1.7"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="190" height="49" viewBox="0 0 190 49" role="img" aria-label="TOOLS / STACK">
+<rect x="1" y="1" width="188" height="47" rx="6" fill="#172028" stroke="#536878"/>
+<path d="M1 47H188" stroke="#a3b9ce" stroke-width="2"/>
+<text x="13" y="30" fill="#a3b9ce" font-family="Consolas, Menlo, monospace" font-size="13">05</text>
+<text x="43" y="30" fill="#ecf0ef" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing=".3">TOOLS / STACK</text>
+<path d="M169 24h10m-4-4 4 4-4 4" fill="none" stroke="#a3b9ce" stroke-width="1.6"/>
 </svg>

@@ -1,18 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="242" viewBox="0 0 1200 242" role="img" aria-labelledby="title desc">
-  <title id="title">Product engineering map</title>
-  <desc id="desc">Five stages: idea and UX, interface and logic, API and authentication, data and practical AI, build and deploy. Iterate across all stages.</desc>
-  <defs><linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#0d1620"/><stop offset="1" stop-color="#171528"/></linearGradient></defs>
-  <rect width="1200" height="242" rx="18" fill="url(#bg)" stroke="#30465b"/>
-  <text x="34" y="38" fill="#83a4b4" font-family="Consolas, Menlo, monospace" font-size="17" letter-spacing="2">FROM PRODUCT INTENT TO WORKING SOFTWARE</text>
-  <g font-family="Arial, Helvetica, sans-serif">
-    <rect x="34" y="65" width="200" height="111" rx="12" fill="#172936" stroke="#3d7082"/><text x="53" y="100" fill="#56ddd9" font-size="17" font-weight="700">01 / DISCOVER</text><text x="53" y="132" fill="#edf4f8" font-size="22" font-weight="700">Idea + UX</text><text x="53" y="157" fill="#9cb2bf" font-size="15">Problem → experience</text>
-    <rect x="267" y="65" width="200" height="111" rx="12" fill="#162839" stroke="#406684"/><text x="286" y="100" fill="#65c5ef" font-size="17" font-weight="700">02 / BUILD</text><text x="286" y="132" fill="#edf4f8" font-size="22" font-weight="700">UI + logic</text><text x="286" y="157" fill="#9cb2bf" font-size="15">Interaction → behavior</text>
-    <rect x="500" y="65" width="200" height="111" rx="12" fill="#17263a" stroke="#43628b"/><text x="519" y="100" fill="#77aff7" font-size="17" font-weight="700">03 / CONNECT</text><text x="519" y="132" fill="#edf4f8" font-size="22" font-weight="700">API + auth</text><text x="519" y="157" fill="#9cb2bf" font-size="15">Rules → access</text>
-    <rect x="733" y="65" width="200" height="111" rx="12" fill="#1a233b" stroke="#625c94"/><text x="752" y="100" fill="#a795fa" font-size="17" font-weight="700">04 / POWER</text><text x="752" y="132" fill="#edf4f8" font-size="22" font-weight="700">Data + AI</text><text x="752" y="157" fill="#9cb2bf" font-size="15">Persistence → utility</text>
-    <rect x="966" y="65" width="200" height="111" rx="12" fill="#202138" stroke="#725990"/><text x="985" y="100" fill="#c29afd" font-size="17" font-weight="700">05 / SHIP</text><text x="985" y="132" fill="#edf4f8" font-size="22" font-weight="700">Build + deploy</text><text x="985" y="157" fill="#9cb2bf" font-size="15">Release → learn</text>
-  </g>
-  <g fill="#7bafce" font-family="Consolas, Menlo, monospace" font-size="28"><text x="238" y="129">→</text><text x="471" y="129">→</text><text x="704" y="129">→</text><text x="937" y="129">→</text></g>
-  <path d="M85 204H1115" stroke="#49667c" stroke-width="2"/><path d="m100 198-15 6 15 6M1100 198l15 6-15 6" fill="none" stroke="#63d6df" stroke-width="2"/>
-  <rect x="523" y="192" width="154" height="25" rx="12" fill="#172839"/>
-  <text x="600" y="210" text-anchor="middle" fill="#9adbe4" font-family="Consolas, Menlo, monospace" font-size="15" letter-spacing="2">ITERATE</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="338" viewBox="0 0 1200 338" role="img" aria-labelledby="title desc">
+<title id="title">How the pieces connect</title><desc id="desc">A product system map showing experience, application, intelligence, and release layers.</desc>
+<rect width="1200" height="338" rx="14" fill="#10171e" stroke="#40515d"/>
+<text x="34" y="40" fill="#98aeb9" font-family="Consolas, Menlo, monospace" font-size="17" letter-spacing="2">A PRODUCT IS A CONNECTED SYSTEM</text>
+<path d="M34 58H1166" stroke="#3f515d"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<rect x="34" y="84" width="253" height="142" rx="8" fill="#192832" stroke="#567980"/>
+<text x="54" y="119" fill="#85ded5" font-size="16" font-weight="700">01 / EXPERIENCE</text>
+<text x="54" y="161" fill="#edf2f0" font-size="30" font-weight="700">UX + interface</text>
+<text x="54" y="193" fill="#a7bac2" font-size="18">What people touch</text>
+<rect x="327" y="84" width="253" height="142" rx="8" fill="#192732" stroke="#58758d"/>
+<text x="347" y="119" fill="#89bbdc" font-size="16" font-weight="700">02 / APPLICATION</text>
+<text x="347" y="161" fill="#edf2f0" font-size="30" font-weight="700">Logic + API</text>
+<text x="347" y="193" fill="#a7bac2" font-size="18">What makes it work</text>
+<rect x="620" y="84" width="253" height="142" rx="8" fill="#1b2532" stroke="#68738d"/>
+<text x="640" y="119" fill="#a5b7e3" font-size="16" font-weight="700">03 / FOUNDATION</text>
+<text x="640" y="161" fill="#edf2f0" font-size="30" font-weight="700">Auth + data</text>
+<text x="640" y="193" fill="#a7bac2" font-size="18">What holds it together</text>
+<rect x="913" y="84" width="253" height="142" rx="8" fill="#202332" stroke="#796b8b"/>
+<text x="933" y="119" fill="#b7a3d2" font-size="16" font-weight="700">04 / DELIVERY</text>
+<text x="933" y="161" fill="#edf2f0" font-size="30" font-weight="700">Build + deploy</text>
+<text x="933" y="193" fill="#a7bac2" font-size="18">What reaches the user</text>
+</g>
+<path d="M287 155H327M580 155H620M873 155H913" stroke="#90bdc6" stroke-width="3"/>
+<path d="m318 149 9 6-9 6m293-12 9 6-9 6m293-12 9 6-9 6" fill="none" stroke="#90bdc6" stroke-width="2"/>
+<path d="M1040 244V286H160V244" fill="none" stroke="#739ba8" stroke-width="2"/>
+<path d="m153 255 7-11 7 11" fill="none" stroke="#85d8d0" stroke-width="2"/>
+<rect x="471" y="269" width="258" height="34" rx="16" fill="#20313b"/>
+<text x="600" y="292" text-anchor="middle" fill="#c0dbdf" font-family="Consolas, Menlo, monospace" font-size="17" letter-spacing="2">FEEDBACK → ITERATION</text>
 </svg>
