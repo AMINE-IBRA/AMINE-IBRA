@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="242" viewBox="0 0 1200 242" role="img" aria-labelledby="title desc">
+  <title id="title">Product engineering map</title>
+  <desc id="desc">Five stages: idea and UX, interface and logic, API and authentication, data and practical AI, build and deploy. Iterate across all stages.</desc>
+  <defs><linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#0d1620"/><stop offset="1" stop-color="#171528"/></linearGradient></defs>
+  <rect width="1200" height="242" rx="18" fill="url(#bg)" stroke="#30465b"/>
+  <text x="34" y="38" fill="#83a4b4" font-family="Consolas, Menlo, monospace" font-size="17" letter-spacing="2">FROM PRODUCT INTENT TO WORKING SOFTWARE</text>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="34" y="65" width="200" height="111" rx="12" fill="#172936" stroke="#3d7082"/><text x="53" y="100" fill="#56ddd9" font-size="17" font-weight="700">01 / DISCOVER</text><text x="53" y="132" fill="#edf4f8" font-size="22" font-weight="700">Idea + UX</text><text x="53" y="157" fill="#9cb2bf" font-size="15">Problem → experience</text>
+    <rect x="267" y="65" width="200" height="111" rx="12" fill="#162839" stroke="#406684"/><text x="286" y="100" fill="#65c5ef" font-size="17" font-weight="700">02 / BUILD</text><text x="286" y="132" fill="#edf4f8" font-size="22" font-weight="700">UI + logic</text><text x="286" y="157" fill="#9cb2bf" font-size="15">Interaction → behavior</text>
+    <rect x="500" y="65" width="200" height="111" rx="12" fill="#17263a" stroke="#43628b"/><text x="519" y="100" fill="#77aff7" font-size="17" font-weight="700">03 / CONNECT</text><text x="519" y="132" fill="#edf4f8" font-size="22" font-weight="700">API + auth</text><text x="519" y="157" fill="#9cb2bf" font-size="15">Rules → access</text>
+    <rect x="733" y="65" width="200" height="111" rx="12" fill="#1a233b" stroke="#625c94"/><text x="752" y="100" fill="#a795fa" font-size="17" font-weight="700">04 / POWER</text><text x="752" y="132" fill="#edf4f8" font-size="22" font-weight="700">Data + AI</text><text x="752" y="157" fill="#9cb2bf" font-size="15">Persistence → utility</text>
+    <rect x="966" y="65" width="200" height="111" rx="12" fill="#202138" stroke="#725990"/><text x="985" y="100" fill="#c29afd" font-size="17" font-weight="700">05 / SHIP</text><text x="985" y="132" fill="#edf4f8" font-size="22" font-weight="700">Build + deploy</text><text x="985" y="157" fill="#9cb2bf" font-size="15">Release → learn</text>
+  </g>
+  <g fill="#7bafce" font-family="Consolas, Menlo, monospace" font-size="28"><text x="238" y="129">→</text><text x="471" y="129">→</text><text x="704" y="129">→</text><text x="937" y="129">→</text></g>
+  <path d="M85 204H1115" stroke="#49667c" stroke-width="2"/><path d="m100 198-15 6 15 6M1100 198l15 6-15 6" fill="none" stroke="#63d6df" stroke-width="2"/>
+  <rect x="523" y="192" width="154" height="25" rx="12" fill="#172839"/>
+  <text x="600" y="210" text-anchor="middle" fill="#9adbe4" font-family="Consolas, Menlo, monospace" font-size="15" letter-spacing="2">ITERATE</text>
+</svg>

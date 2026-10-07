@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="394" viewBox="0 0 1200 394" role="img" aria-labelledby="title desc">
+<title id="title">Engineering stack</title>
+<desc id="desc">JavaScript, TypeScript, React, Next.js, Node.js, Express, Python, FastAPI, HTML and CSS, Tailwind, Vite, Prisma, SQLite, Supabase, Git, GitHub, Vercel, and OpenRouter.</desc>
+<defs><linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#0c1621"/><stop offset="1" stop-color="#191627"/></linearGradient></defs>
+<rect width="1200" height="394" rx="18" fill="url(#bg)" stroke="#344657"/>
+<text x="31" y="37" fill="#89a8b7" font-family="Consolas, Menlo, monospace" font-size="17" letter-spacing="2">LANGUAGES  /  INTERFACES  /  SYSTEMS  /  DELIVERY</text>
+<rect x="31" y="61" width="181" height="91" rx="11" fill="#182533" stroke="#365066"/>
+<rect x="43" y="76" width="48" height="48" rx="9" fill="#22394a"/>
+<text x="67" y="107" text-anchor="middle" fill="#e8d26d" font-family="Consolas, Menlo, monospace" font-size="19" font-weight="700">JS</text>
+<text x="101" y="106" fill="#e8eef4" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">JavaScript</text>
+<path d="M44 137H199" stroke="#e8d26d" stroke-opacity=".58"/>
+<rect x="226" y="61" width="181" height="91" rx="11" fill="#182533" stroke="#365066"/>
+<rect x="238" y="76" width="48" height="48" rx="9" fill="#22394a"/>
+<text x="262" y="107" text-anchor="middle" fill="#70aafb" font-family="Consolas, Menlo, monospace" font-size="19" font-weight="700">TS</text>
+<text x="296" y="106" fill="#e8eef4" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">TypeScript</text>
+<path d="M239 137H394" stroke="#70aafb" stroke-opacity=".58"/>
+<rect x="421" y="61" width="181" height="91" rx="11" fill="#182533" stroke="#365066"/>
+<rect x="433" y="76" width="48" height="48" rx="9" fill="#22394a"/>
+<text x="457" y="107" text-anchor="middle" fill="#66d8ed" font-family="Consolas, Menlo, monospace" font-size="19" font-weight="700">R</text>
+<text x="491" y="106" fill="#e8eef4" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">React</text>
+<path d="M434 137H589" stroke="#66d8ed" stroke-opacity=".58"/>
+<rect x="616" y="61" width="181" height="91" rx="11" fill="#182533" stroke="#365066"/>
+<rect x="628" y="76" width="48" height="48" rx="9" fill="#22394a"/>
+<text x="652" y="107" text-anchor="middle" fill="#dce4ef" font-family="Consolas, Menlo, monospace" font-size="19" font-weight="700">N</text>
+<text x="686" y="106" fill="#e8eef4" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">Next.js</text>
+<path d="M629 137H784" stroke="#dce4ef" stroke-opacity=".58"/>
+<rect x="811" y="61" width="181" height="91" rx="11" fill="#182533" stroke="#365066"/>
+<rect x="823" y="76" width="48" height="48" rx="9" fill="#22394a"/>
+<text x="847" y="107" text-anchor="middle" fill="#8bc981" font-family="Consolas, Menlo, monospace" font-size="19" font-weight="700">N</text>
+<text x="881" y="106" fill="#e8eef4" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">Node.js</text>
+<path d="M824 137H979" stroke="#8bc981" stroke-opacity=".58"/>
+<rect x="1006" y="61" width="181" height="91" rx="11" fill="#182533" stroke="#365066"/>
+<rect x="1018" y="76" width="48" height="48" rx="9" fill="#22394a"/>
+<text x="1042" y="107" text-anchor="middle" fill="#a3b5c8" font-family="Consolas, Menlo, monospace" font-size="19" font-weight="700">Ex</text>
+<text x="1076" y="106" fill="#e8eef4" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">Express</text>
+<path d="M1019 137H1174" stroke="#a3b5c8" stroke-opacity=".58"/>
+<rect x="31" y="167" width="181" height="91" rx="11" fill="#182533" stroke="#365066"/>
+<rect x="43" y="182" width="48" height="48" rx="9" fill="#22394a"/>
+<text x="67" y="213" text-anchor="middle" fill="#d8b375" font-family="Consolas, Menlo, monospace" font-size="19" font-weight="700">Py</text>
+<text x="101" y="212" fill="#e8eef4" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">Python</text>
+<path d="M44 243H199" stroke="#d8b375" stroke-opacity=".58"/>
+<rect x="226" y="167" width="181" height="91" rx="11" fill="#182533" stroke="#365066"/>
+<rect x="238" y="182" width="48" height="48" rx="9" fill="#22394a"/>
+<text x="262" y="213" text-anchor="middle" fill="#72d8bb" font-family="Consolas, Menlo, monospace" font-size="19" font-weight="700">Fa</text>
+<text x="296" y="212" fill="#e8eef4" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">FastAPI</text>
+<path d="M239 243H394" stroke="#72d8bb" stroke-opacity=".58"/>
+<rect x="421" y="167" width="181" height="91" rx="11" fill="#182533" stroke="#365066"/>
+<rect x="433" y="182" width="48" height="48" rx="9" fill="#22394a"/>
+<text x="457" y="213" text-anchor="middle" fill="#f39b85" font-family="Consolas, Menlo, monospace" font-size="19" font-weight="700">&lt;/&gt;</text>
+<text x="491" y="212" fill="#e8eef4" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">HTML / CSS</text>
+<path d="M434 243H589" stroke="#f39b85" stroke-opacity=".58"/>
+<rect x="616" y="167" width="181" height="91" rx="11" fill="#182533" stroke="#365066"/>
+<rect x="628" y="182" width="48" height="48" rx="9" fill="#22394a"/>
+<text x="652" y="213" text-anchor="middle" fill="#73d8e3" font-family="Consolas, Menlo, monospace" font-size="19" font-weight="700">Tw</text>
+<text x="686" y="212" fill="#e8eef4" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">Tailwind</text>
+<path d="M629 243H784" stroke="#73d8e3" stroke-opacity=".58"/>
+<rect x="811" y="167" width="181" height="91" rx="11" fill="#182533" stroke="#365066"/>
+<rect x="823" y="182" width="48" height="48" rx="9" fill="#22394a"/>
+<text x="847" y="213" text-anchor="middle" fill="#ba9af7" font-family="Consolas, Menlo, monospace" font-size="19" font-weight="700">V</text>
+<text x="881" y="212" fill="#e8eef4" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">Vite</text>
+<path d="M824 243H979" stroke="#ba9af7" stroke-opacity=".58"/>
+<rect x="1006" y="167" width="181" height="91" rx="11" fill="#182533" stroke="#365066"/>
+<rect x="1018" y="182" width="48" height="48" rx="9" fill="#22394a"/>
+<text x="1042" y="213" text-anchor="middle" fill="#95b1d7" font-family="Consolas, Menlo, monospace" font-size="19" font-weight="700">Pr</text>
+<text x="1076" y="212" fill="#e8eef4" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">Prisma</text>
+<path d="M1019 243H1174" stroke="#95b1d7" stroke-opacity=".58"/>
+<rect x="31" y="273" width="181" height="91" rx="11" fill="#182533" stroke="#365066"/>
+<rect x="43" y="288" width="48" height="48" rx="9" fill="#22394a"/>
+<text x="67" y="319" text-anchor="middle" fill="#93c2ee" font-family="Consolas, Menlo, monospace" font-size="19" font-weight="700">SQL</text>
+<text x="101" y="318" fill="#e8eef4" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">SQLite</text>
+<path d="M44 349H199" stroke="#93c2ee" stroke-opacity=".58"/>
+<rect x="226" y="273" width="181" height="91" rx="11" fill="#182533" stroke="#365066"/>
+<rect x="238" y="288" width="48" height="48" rx="9" fill="#22394a"/>
+<text x="262" y="319" text-anchor="middle" fill="#74d6a0" font-family="Consolas, Menlo, monospace" font-size="19" font-weight="700">Su</text>
+<text x="296" y="318" fill="#e8eef4" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">Supabase</text>
+<path d="M239 349H394" stroke="#74d6a0" stroke-opacity=".58"/>
+<rect x="421" y="273" width="181" height="91" rx="11" fill="#182533" stroke="#365066"/>
+<rect x="433" y="288" width="48" height="48" rx="9" fill="#22394a"/>
+<text x="457" y="319" text-anchor="middle" fill="#ec927f" font-family="Consolas, Menlo, monospace" font-size="19" font-weight="700">Gt</text>
+<text x="491" y="318" fill="#e8eef4" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">Git</text>
+<path d="M434 349H589" stroke="#ec927f" stroke-opacity=".58"/>
+<rect x="616" y="273" width="181" height="91" rx="11" fill="#182533" stroke="#365066"/>
+<rect x="628" y="288" width="48" height="48" rx="9" fill="#22394a"/>
+<text x="652" y="319" text-anchor="middle" fill="#d2d8e6" font-family="Consolas, Menlo, monospace" font-size="19" font-weight="700">GH</text>
+<text x="686" y="318" fill="#e8eef4" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">GitHub</text>
+<path d="M629 349H784" stroke="#d2d8e6" stroke-opacity=".58"/>
+<rect x="811" y="273" width="181" height="91" rx="11" fill="#182533" stroke="#365066"/>
+<rect x="823" y="288" width="48" height="48" rx="9" fill="#22394a"/>
+<text x="847" y="319" text-anchor="middle" fill="#dce4ef" font-family="Consolas, Menlo, monospace" font-size="19" font-weight="700">Vc</text>
+<text x="881" y="318" fill="#e8eef4" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">Vercel</text>
+<path d="M824 349H979" stroke="#dce4ef" stroke-opacity=".58"/>
+<rect x="1006" y="273" width="181" height="91" rx="11" fill="#182533" stroke="#365066"/>
+<rect x="1018" y="288" width="48" height="48" rx="9" fill="#22394a"/>
+<text x="1042" y="319" text-anchor="middle" fill="#b798ec" font-family="Consolas, Menlo, monospace" font-size="19" font-weight="700">AI</text>
+<text x="1076" y="318" fill="#e8eef4" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">OpenRouter</text>
+<path d="M1019 349H1174" stroke="#b798ec" stroke-opacity=".58"/>
+</svg>

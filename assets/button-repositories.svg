@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="52" viewBox="0 0 220 52" role="img" aria-label="REPOSITORIES">
+<rect x="1" y="1" width="218" height="50" rx="9" fill="#142332" stroke="#75bbfa" stroke-opacity=".7"/>
+<rect x="10" y="10" width="32" height="32" rx="6" fill="#213b49"/>
+<text x="26" y="31" text-anchor="middle" fill="#75bbfa" font-family="Consolas, Menlo, monospace" font-size="13" font-weight="700">02</text>
+<text x="53" y="32" fill="#edf3f8" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing=".6">REPOSITORIES</text>
+<path d="M194 26h14m-5-5 5 5-5 5" fill="none" stroke="#75bbfa" stroke-width="1.7"/>
+</svg>
