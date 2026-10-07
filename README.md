@@ -1,73 +1,80 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Mohamed Amine — full-stack developer. Building product experiences and the systems behind them." />
+<img src="./assets/hero.svg" width="100%" alt="Mohamed Amine — full-stack developer. SaaS products, AI-assisted experiences and modern web systems." />
 
 <br />
 
-<a href="#selected-work"><img src="./assets/button-projects.svg" width="165" alt="Selected work" /></a>
-<a href="https://github.com/AMINE-IBRA/CV-CREATAOR-AND-FREINDLY-ATS"><img src="./assets/button-flagship.svg" width="165" alt="CV Creator Pro" /></a>
-<a href="https://github.com/AMINE-IBRA?tab=repositories"><img src="./assets/button-repositories.svg" width="165" alt="Repositories" /></a>
+<a href="#selected-work"><img src="./assets/button-projects.svg" width="160" alt="Selected work" /></a>
+<a href="https://github.com/AMINE-IBRA/CV-CREATAOR-AND-FREINDLY-ATS"><img src="./assets/button-flagship.svg" width="160" alt="CV Creator Pro" /></a>
+<a href="https://github.com/AMINE-IBRA?tab=repositories"><img src="./assets/button-repositories.svg" width="160" alt="Repositories" /></a>
 <br />
-<a href="#how-the-pieces-connect"><img src="./assets/button-map.svg" width="165" alt="System map" /></a>
-<a href="#tools-in-rotation"><img src="./assets/button-stack.svg" width="165" alt="Tech stack" /></a>
-<a href="https://mohamedamineelibrahimi.vercel.app/"><img src="./assets/button-portfolio.svg" width="165" alt="Portfolio" /></a>
-
-<br />
-
-[LinkedIn](https://www.linkedin.com/in/el-ibrahimi-mohamed-amine-630891395/) · [All repositories](https://github.com/AMINE-IBRA?tab=repositories)
+<a href="#under-the-hood"><img src="./assets/button-map.svg" width="160" alt="System map" /></a>
+<a href="#toolbox"><img src="./assets/button-stack.svg" width="160" alt="Tech stack" /></a>
+<a href="https://mohamedamineelibrahimi.vercel.app/"><img src="./assets/button-portfolio.svg" width="160" alt="Portfolio" /></a>
 
 </div>
 
-<img src="./assets/terminal.svg" width="100%" alt="Workstation notes: product-minded developer; building and shipping; a loop from idea to iteration." />
+<br />
 
-## Building end to end
+I’m **Mohamed Amine**. I build web products from the interface down to the API and database. Lately, that means a resume builder, inventory tools, and a camera-based wardrobe experiment.
 
-I’m **Mohamed Amine**. I like building the whole product: the interface someone wants to use, the API behind it, the data that lasts, and the details that make the result feel finished. My projects move between SaaS workflows, practical AI, and visual experiments.
+I care about what happens after the first screen: signing in, saving work, handling limits, exporting something useful, and getting the pieces to work together.
+
+<img src="./assets/terminal.svg" width="100%" alt="Product-minded developer. Building and shipping, from idea to iteration." />
 
 ## Selected work
 
-<a href="https://github.com/AMINE-IBRA/CV-CREATAOR-AND-FREINDLY-ATS"><img src="./assets/project-cv.svg" width="100%" alt="Open CV Creator Pro repository" /></a>
+<a href="https://github.com/AMINE-IBRA/CV-CREATAOR-AND-FREINDLY-ATS"><img src="./assets/project-cv.svg" width="100%" alt="01 — CV Creator Pro. Open the repository." /></a>
 
-**CV Creator Pro** is a React/TypeScript and Express resume workspace with 12 templates, saved resumes and cover letters, account sessions, usage limits, OpenRouter writing tools, and PDF/DOCX/TXT/JSON exports. Prisma and SQLite handle local data. The repository documents the production integrations still to be connected.
+**A resume workspace, from writing to download.** React/TypeScript and Express, with 12 templates, saved resumes and cover letters, OpenRouter writing tools, account sessions, and usage limits. Exports to PDF, DOCX, TXT, and JSON; Prisma and SQLite store the data.
 
-<a href="https://github.com/AMINE-IBRA/Gestion-de-Stock-Professionnelle"><img src="./assets/project-stock.svg" width="100%" alt="Open StockPro Enterprise repository" /></a>
+[Explore CV Creator Pro ↗](https://github.com/AMINE-IBRA/CV-CREATAOR-AND-FREINDLY-ATS) · Local application; production integrations are documented in the repository.
 
-**StockPro Enterprise** brings inventory and logistics into one interface: KPIs, multi-warehouse tracking, purchasing, audit trails, barcode/SKU tools, and CSV export. It uses React, Vite, Tailwind CSS, Recharts, and Lucide, with browser storage for persistence.
+<br />
 
-<a href="https://github.com/AMINE-IBRA/fitcheck-vision"><img src="./assets/project-vision.svg" width="100%" alt="Open FitCheck Vision repository" /></a>
+<a href="https://github.com/AMINE-IBRA/Gestion-de-Stock-Professionnelle"><img src="./assets/project-stock.svg" width="100%" alt="02 — StockPro Enterprise. Open the repository." /></a>
 
-**FitCheck Vision** is a wardrobe and computer-vision experiment. A JavaScript camera interface streams to a Python/FastAPI backend over WebSockets for garment detection and segmentation, color extraction, wardrobe indexing, and visual overlays.
+**Inventory and logistics in one dashboard.** KPIs, multiple warehouses, purchasing, movement history, barcode/SKU tools, and CSV export. Built with React, Vite, Tailwind, Recharts, and Lucide; data persists in browser storage.
 
-## How the pieces connect
+[Explore StockPro Enterprise ↗](https://github.com/AMINE-IBRA/Gestion-de-Stock-Professionnelle)
 
-<img src="./assets/product-map.svg" width="100%" alt="Product map showing experience, application systems, data and AI, and delivery connected in a build-and-improve loop." />
+<br />
 
-The shape changes from project to project, but the habit stays the same: **understand the use case, make the interaction clear, connect the systems, ship, then refine**.
+<a href="https://github.com/AMINE-IBRA/fitcheck-vision"><img src="./assets/project-vision.svg" width="100%" alt="03 — FitCheck Vision. Open the repository." /></a>
 
-## Tools in rotation
+**Exploring a wardrobe through computer vision.** A JavaScript camera interface streams frames to Python/FastAPI over WebSockets. The experiment connects garment detection and segmentation, color extraction, wardrobe indexing, and visual overlays.
 
-<img src="./assets/stack.svg" width="100%" alt="Technology groups covering interfaces, backend and data, and delivery tools." />
+[Explore FitCheck Vision ↗](https://github.com/AMINE-IBRA/fitcheck-vision)
 
-**Interfaces:** JavaScript, TypeScript, React, Next.js, HTML/CSS, Tailwind CSS, Vite<br />
-**Systems:** Node.js, Express, Python, FastAPI, Prisma, SQLite, Supabase, OpenRouter<br />
-**Delivery:** Git, GitHub, Vercel
+## Under the hood
 
-## Smaller builds
+A closer look at how the parts of **CV Creator Pro** connect:
 
-[Landing Page Builder](https://github.com/AMINE-IBRA/LANDING-PAGE-BUILDER) · [CV Creator](https://github.com/AMINE-IBRA/CV-CREATOR) · [Login Page by PHP](https://github.com/AMINE-IBRA/LOGIN-PAGE-BY-PHP)
+<img src="./assets/product-map.svg" width="100%" alt="CV Creator Pro architecture: React editor, client exports, Express API, account sessions, Prisma/SQLite, and OpenRouter." />
 
-These are experiments and earlier builds. The three projects above are the best starting point for my current work.
+## Toolbox
 
-## What I’m working toward
+**Interfaces**<br />
+JavaScript · TypeScript · React · Next.js · HTML/CSS · Tailwind CSS · Vite
 
-Deeper backend design. More complete SaaS products. AI features that earn their place in the workflow. Better engineering decisions with every build.
+**Services &amp; data**<br />
+Node.js · Express · Python · FastAPI · Prisma · SQLite · Supabase · OpenRouter
 
-<div align="center">
+**Delivery**<br />
+Git · GitHub · Vercel
+
+## On the workbench
+
+Smaller builds and earlier experiments:
+
+- [Landing Page Builder](https://github.com/AMINE-IBRA/LANDING-PAGE-BUILDER)
+- [CV Creator](https://github.com/AMINE-IBRA/CV-CREATOR)
+- [Login Page by PHP](https://github.com/AMINE-IBRA/LOGIN-PAGE-BY-PHP)
+
+**Next:** deeper backends, more complete SaaS workflows, practical AI integrations, and better engineering quality with each build.
 
 ---
 
 **BUILD THINGS WORTH OPENING TWICE.**
 
-[Portfolio](https://mohamedamineelibrahimi.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/el-ibrahimi-mohamed-amine-630891395/) · [GitHub](https://github.com/AMINE-IBRA?tab=repositories)
-
-</div>
+[Portfolio ↗](https://mohamedamineelibrahimi.vercel.app/) &nbsp; / &nbsp; [LinkedIn ↗](https://www.linkedin.com/in/el-ibrahimi-mohamed-amine-630891395/) &nbsp; / &nbsp; [Repositories ↗](https://github.com/AMINE-IBRA?tab=repositories)
