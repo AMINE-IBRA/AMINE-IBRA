@@ -1,17 +1,15 @@
-<a id="top"></a>
-
 <div align="center">
 
 <img src="./assets/hero.svg" alt="Mohamed Amine — Full-Stack Builder. SaaS products, AI-assisted experiences, and modern web systems." width="100%" />
 
 <br />
 
-<a href="#selected-work"><img src="./assets/button-projects.svg" alt="Explore projects" height="44" /></a>
+<a href="#02--selected-work"><img src="./assets/button-projects.svg" alt="Explore projects" height="44" /></a>
 <a href="https://github.com/AMINE-IBRA?tab=repositories"><img src="./assets/button-repositories.svg" alt="All repositories" height="44" /></a>
 <a href="https://github.com/AMINE-IBRA/CV-CREATAOR-AND-FREINDLY-ATS"><img src="./assets/button-flagship.svg" alt="Open flagship project" height="44" /></a>
-<a href="#engineering-stack"><img src="./assets/button-stack.svg" alt="View engineering stack" height="44" /></a>
+<a href="#04--engineering-stack"><img src="./assets/button-stack.svg" alt="View engineering stack" height="44" /></a>
 
-<br /><br />
+<br />
 
 `> building products from the first idea to the last detail_`
 
@@ -22,6 +20,8 @@
 ## 01 / Identity
 
 I’m **Mohamed Amine**, a full-stack developer focused on turning useful ideas into complete web products. I work across interfaces, APIs, data, authentication, AI integrations, document exports, and deployment. I care about how a product feels to use as much as how its systems fit together.
+
+[Portfolio](https://mohamedamineelibrahimi.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/el-ibrahimi-mohamed-amine-630891395/) · [GitHub repositories](https://github.com/AMINE-IBRA?tab=repositories)
 
 ## 02 / Selected work
 
@@ -69,6 +69,6 @@ Going deeper on backend design, building stronger SaaS products, using AI where 
 
 ### BUILD THINGS WORTH OPENING TWICE.
 
-[Explore all repositories](https://github.com/AMINE-IBRA?tab=repositories) · [Return to top](#top)
+[Explore all repositories](https://github.com/AMINE-IBRA?tab=repositories) · [Portfolio](https://mohamedamineelibrahimi.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/el-ibrahimi-mohamed-amine-630891395/)
 
 </div>
