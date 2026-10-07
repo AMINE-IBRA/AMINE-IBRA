@@ -1,15 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="174" viewBox="0 0 1200 174" role="img" aria-labelledby="title desc">
-<title id="title">CV Creator Pro</title><desc id="desc">Open the CV Creator Pro repository.</desc>
-<rect width="1200" height="174" rx="13" fill="#111a21" stroke="#3c4e59"/>
-<path d="M105 0V174M850 0V174" stroke="#354752"/>
-<path d="M0 172H1200" stroke="#82ded5" stroke-width="3"/>
-<text x="28" y="102" fill="#82ded5" font-family="Consolas, Menlo, monospace" font-size="30" font-weight="700">01</text>
-<text x="140" y="48" fill="#8ea8b4" font-family="Consolas, Menlo, monospace" font-size="17" letter-spacing="2">DOCUMENT PRODUCT / FULL STACK</text>
-<text x="140" y="106" fill="#eff2f0" font-family="Arial, Helvetica, sans-serif" font-size="45" font-weight="800" letter-spacing="-1">CV Creator Pro</text>
-<text x="140" y="144" fill="#82ded5" font-family="Consolas, Menlo, monospace" font-size="18">VIEW REPOSITORY ↗</text>
-
-<rect x="940" y="30" width="126" height="118" rx="5" fill="#20313b" stroke="#78c6c1"/>
-<rect x="965" y="42" width="126" height="118" rx="5" fill="#243741" stroke="#78c6c1"/>
-<path d="M987 64h48m-48 17h79m-79 17h65m-65 17h73m-73 17h52" stroke="#a0bbc2" stroke-width="3"/>
-<rect x="1054" y="63" width="15" height="15" fill="#82ded5"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="CV Creator Pro — resume workspace. Illustrated document and export formats."><title>CV Creator Pro — resume workspace. Illustrated document and export formats.</title><g font-family="Arial, Helvetica, sans-serif"><rect width="1200" height="360" fill="#101114"/><text x="42" y="47" font-size="16" fill="#8bf4ed" font-family="Consolas, monospace" letter-spacing="1">01 / RESUME WORKSPACE</text><text x="39" y="115" font-size="47" fill="#eeeee8" font-weight="700" letter-spacing="-2">CV Creator Pro</text><text x="42" y="158" font-size="21" fill="#9a9ca5" >Write. Refine. Export.</text><text x="42" y="314" font-size="17" fill="#9a9ca5" font-family="Consolas, monospace" letter-spacing="1">REACT / TYPESCRIPT / EXPRESS / PRISMA</text><path d="M42 266H599" stroke="#32353d"/><text x="42" y="214" font-size="20" fill="#eeeee8" >12 templates · AI writing · saved resumes</text><g transform="translate(713 37)">
+<path d="M37 36L264 6L295 257L67 287Z" fill="#4358ff"/>
+<rect x="74" y="0" width="230" height="281" rx="3" fill="#eeeee8"/>
+<rect x="74" width="69" height="281" fill="#d4d7d8"/>
+<circle cx="109" cy="44" r="15" fill="#a5acaf"/>
+<path d="M91 80H124M91 94H124M91 108H117M91 150H124M91 164H124M91 178H117" stroke="#8f969a" stroke-width="4"/>
+<path d="M163 37H267" stroke="#252a32" stroke-width="9"/>
+<path d="M163 57H234M163 98H282M163 112H273M163 126H277M163 165H264M163 179H282M163 193H272M163 232H281M163 246H261" stroke="#b0b6ba" stroke-width="5"/>
+<rect x="243" y="196" width="157" height="58" rx="5" fill="#8bf4ed"/>
+<text x="264" y="232" font-size="24" fill="#101114" font-weight="700">PDF  ↗</text>
+<text x="78" y="312" font-size="16" fill="#9a9ca5" font-family="Consolas, monospace" letter-spacing="1">DOCX / TXT / JSON</text>
+</g></g></svg>

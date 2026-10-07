@@ -1,15 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="174" viewBox="0 0 1200 174" role="img" aria-labelledby="title desc">
-<title id="title">FitCheck Vision</title><desc id="desc">Open the FitCheck Vision repository.</desc>
-<rect width="1200" height="174" rx="13" fill="#111a21" stroke="#3c4e59"/>
-<path d="M105 0V174M850 0V174" stroke="#354752"/>
-<path d="M0 172H1200" stroke="#ad9bcf" stroke-width="3"/>
-<text x="28" y="102" fill="#ad9bcf" font-family="Consolas, Menlo, monospace" font-size="30" font-weight="700">03</text>
-<text x="140" y="48" fill="#8ea8b4" font-family="Consolas, Menlo, monospace" font-size="17" letter-spacing="2">COMPUTER VISION / REAL TIME</text>
-<text x="140" y="106" fill="#eff2f0" font-family="Arial, Helvetica, sans-serif" font-size="45" font-weight="800" letter-spacing="-1">FitCheck Vision</text>
-<text x="140" y="144" fill="#ad9bcf" font-family="Consolas, Menlo, monospace" font-size="18">VIEW REPOSITORY ↗</text>
-
-<rect x="927" y="35" width="168" height="105" rx="7" fill="#1e2b37" stroke="#987ebc"/>
-<path d="M948 57h23m-23 0v22M1074 57h-23m23 0v22M948 119h23m-23 0V97M1074 119h-23m23 0V97" fill="none" stroke="#b99edb" stroke-width="3"/>
-<path d="M989 90c8-19 37-20 48 0m-48 0v26h48V90" fill="none" stroke="#7aaebf" stroke-width="2"/>
-<circle cx="1108" cy="43" r="5" fill="#ad9bcf"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="FitCheck Vision — computer vision wardrobe experiment. Garment detection illustration."><title>FitCheck Vision — computer vision wardrobe experiment. Garment detection illustration.</title><g font-family="Arial, Helvetica, sans-serif"><rect width="1200" height="360" fill="#101114"/><text x="42" y="47" font-size="16" fill="#8bf4ed" font-family="Consolas, monospace" letter-spacing="1">03 / COMPUTER VISION</text><text x="39" y="115" font-size="47" fill="#eeeee8" font-weight="700" letter-spacing="-2">FitCheck Vision</text><text x="42" y="158" font-size="21" fill="#9a9ca5" >A camera. A garment. Structured data.</text><text x="42" y="314" font-size="17" fill="#9a9ca5" font-family="Consolas, monospace" letter-spacing="1">PYTHON / FASTAPI / WEBSOCKETS</text><path d="M42 266H599" stroke="#32353d"/><text x="42" y="214" font-size="20" fill="#eeeee8" >Detection · color extraction · indexing</text><g transform="translate(746 30)">
+<path d="M70 39L126 13Q149 48 172 13L227 39L280 107L230 145L206 115V251H92V115L67 145L18 107Z" fill="#30343e" stroke="#737b8d" stroke-width="2"/>
+<path d="M126 13Q148 57 172 13M93 115L77 66M206 115L220 66" fill="none" stroke="#737b8d" stroke-width="2"/>
+<rect x="8" y="4" width="282" height="260" fill="none" stroke="#8bf4ed" stroke-dasharray="5 8" opacity=".65"/>
+<path d="M8 34V4H38M260 4H290V34M290 234V264H260M38 264H8V234" fill="none" stroke="#8bf4ed" stroke-width="4"/>
+<path d="M9 156H289" stroke="#8bf4ed" opacity=".8"/>
+<circle cx="308" cy="293" r="9" fill="#b8a4ff"/><circle cx="283" cy="293" r="9" fill="#737b8d"/><circle cx="258" cy="293" r="9" fill="#30343e"/>
+<text x="8" y="299" font-size="16" fill="#8bf4ed" font-family="Consolas, monospace" letter-spacing="1">GARMENT / FRAME</text>
+</g></g></svg>

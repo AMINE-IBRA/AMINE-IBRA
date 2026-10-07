@@ -1,17 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310" role="img" aria-labelledby="title desc">
-<title id="title">Tools in rotation</title><desc id="desc">Interface, systems, and delivery technologies used or explored across projects.</desc>
-<rect width="1200" height="310" rx="14" fill="#10171d" stroke="#3c4f5b"/>
-<path d="M22 101H1178M22 202H1178M273 22V288" stroke="#3d4e59"/>
-<text x="38" y="51" fill="#7fa1ad" font-family="Consolas, Menlo, monospace" font-size="17" letter-spacing="2">TOOLSET / 01</text>
-<text x="38" y="81" fill="#edf0ed" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700">Interfaces</text>
-<text x="298" y="66" fill="#dfe9e9" font-family="Arial, Helvetica, sans-serif" font-size="22">JavaScript   TypeScript   React   Next.js</text>
-<text x="298" y="91" fill="#93b5bf" font-family="Consolas, Menlo, monospace" font-size="17">HTML / CSS     TAILWIND     VITE</text>
-<path d="M38 145H103" stroke="#85ded5" stroke-width="3"/>
-<text x="38" y="180" fill="#edf0ed" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700">Systems</text>
-<text x="298" y="145" fill="#dfe9e9" font-family="Arial, Helvetica, sans-serif" font-size="22">Node.js   Express   Python   FastAPI</text>
-<text x="298" y="181" fill="#93b5bf" font-family="Consolas, Menlo, monospace" font-size="17">PRISMA     SQLITE     SUPABASE     OPENROUTER</text>
-<path d="M38 245H103" stroke="#98b8d8" stroke-width="3"/>
-<text x="38" y="280" fill="#edf0ed" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700">Delivery</text>
-<text x="298" y="249" fill="#dfe9e9" font-family="Arial, Helvetica, sans-serif" font-size="22">Git   GitHub   Vercel</text>
-<text x="298" y="282" fill="#93b5bf" font-family="Consolas, Menlo, monospace" font-size="17">VERSION → REVIEW → RELEASE</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="98" viewBox="0 0 1200 98" role="img" aria-label="Tools for interfaces, services and delivery."><title>Tools for interfaces, services and delivery.</title><g font-family="Arial, Helvetica, sans-serif"><rect width="1200" height="98" fill="#101114"/><text x="42" y="58" font-size="18" fill="#8bf4ed" font-family="Consolas, monospace" letter-spacing="1">03 / TOOLBOX</text><text x="314" y="60" font-size="26" fill="#eeeee8" >Interfaces</text><text x="630" y="60" font-size="26" fill="#eeeee8" >Services + data</text><text x="988" y="60" font-size="26" fill="#eeeee8" >Delivery</text></g></svg>

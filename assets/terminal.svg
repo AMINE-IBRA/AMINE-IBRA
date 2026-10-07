@@ -1,17 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="245" viewBox="0 0 1200 245" role="img" aria-labelledby="title desc">
-<title id="title">Workstation notes</title><desc id="desc">Product-minded developer, building and shipping, with an idea-to-iteration loop.</desc>
-<rect width="1200" height="245" rx="14" fill="#10161c" stroke="#3b4b57"/>
-<path d="M0 46H1200M670 46V245" stroke="#394954"/>
-<circle cx="26" cy="23" r="5" fill="#6b7d86"/><circle cx="44" cy="23" r="5" fill="#7bcfc9"/><circle cx="62" cy="23" r="5" fill="#7b87a8"/>
-<text x="83" y="29" fill="#93a8b3" font-family="Consolas, Menlo, monospace" font-size="15">workspace / amine / now</text>
-<text x="32" y="95" fill="#7be0d6" font-family="Consolas, Menlo, monospace" font-size="21">$ whoami</text>
-<text x="183" y="95" fill="#e3eaeb" font-family="Consolas, Menlo, monospace" font-size="21">product-minded developer</text>
-<text x="32" y="135" fill="#7be0d6" font-family="Consolas, Menlo, monospace" font-size="21">$ status</text>
-<text x="183" y="135" fill="#e3eaeb" font-family="Consolas, Menlo, monospace" font-size="21">building → shipping</text>
-<path d="M32 161H629" stroke="#344955"/>
-<text x="32" y="199" fill="#9bb1bb" font-family="Consolas, Menlo, monospace" font-size="18">IDEA → UX → CODE → DATA → DEPLOY → ITERATE</text>
-<text x="707" y="90" fill="#8fa8b6" font-family="Consolas, Menlo, monospace" font-size="16" letter-spacing="2">WORKING PRINCIPLE</text>
-<text x="707" y="142" fill="#f0f2ef" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="700">Think in products.</text>
-<text x="707" y="183" fill="#f0f2ef" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="700">Build in systems.</text>
-<path d="M707 211H1140" stroke="#7bcfc9" stroke-width="2"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="168" viewBox="0 0 1200 168" role="img" aria-label="whoami: product-minded developer. Status: building and shipping."><title>whoami: product-minded developer. Status: building and shipping.</title><g font-family="Arial, Helvetica, sans-serif"><rect width="1200" height="168" fill="#101114"/><path d="M48 31V133" stroke="#8bf4ed" stroke-width="3"/><text x="76" y="54" font-size="18" fill="#9a9ca5" font-family="Consolas, monospace" letter-spacing="1">$ whoami</text><text x="76" y="92" font-size="25" fill="#eeeee8" >product-minded dev</text><text x="683" y="54" font-size="18" fill="#9a9ca5" font-family="Consolas, monospace" letter-spacing="1">$ status</text><text x="683" y="92" font-size="25" fill="#8bf4ed" >building → shipping</text><text x="76" y="138" font-size="18" fill="#9a9ca5" font-family="Consolas, monospace" letter-spacing="1">IDEA → UX → FRONTEND → API → DATA → DEPLOY → ITERATE</text></g></svg>
