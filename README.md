@@ -4,6 +4,10 @@
 
 <br />
 
+<img src="https://raw.githubusercontent.com/AMINE-IBRA/AMINE-IBRA/3f65819bef4ba0f79733116376dc17875aa7713f/assets/intro-motion.gif" width="100%" alt="Animated terminal scene: a rotating ASCII ring beside Mohamed Amine's build mode, product-minded developer identity, and idea-to-deploy loop." />
+
+<br />
+
 <a href="#selected-work"><img src="https://raw.githubusercontent.com/AMINE-IBRA/AMINE-IBRA/c47a7970709db2469312d0edb3663707f2f3f8c8/assets/button-projects.svg" width="176" alt="Selected work" /></a>
 <a href="#system-map"><img src="https://raw.githubusercontent.com/AMINE-IBRA/AMINE-IBRA/c47a7970709db2469312d0edb3663707f2f3f8c8/assets/button-map.svg" width="176" alt="System map" /></a>
 <a href="#languages-and-tools"><img src="https://raw.githubusercontent.com/AMINE-IBRA/AMINE-IBRA/c47a7970709db2469312d0edb3663707f2f3f8c8/assets/button-stack.svg" width="176" alt="Stack and languages" /></a>
