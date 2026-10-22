@@ -11,11 +11,11 @@
 <a href="#selected-work"><img src="https://raw.githubusercontent.com/AMINE-IBRA/AMINE-IBRA/678c8b8eb78c160c1112af3b62ae067c5c70dfb6/assets/button-projects.svg" width="176" alt="Selected work" /></a>
 <a href="#system-map"><img src="https://raw.githubusercontent.com/AMINE-IBRA/AMINE-IBRA/678c8b8eb78c160c1112af3b62ae067c5c70dfb6/assets/button-map.svg" width="176" alt="System map" /></a>
 <a href="#languages-and-tools"><img src="https://raw.githubusercontent.com/AMINE-IBRA/AMINE-IBRA/678c8b8eb78c160c1112af3b62ae067c5c70dfb6/assets/button-stack.svg" width="176" alt="Stack and languages" /></a>
-<a href="https://mohamedamineelibrahimi.vercel.app/"><img src="https://raw.githubusercontent.com/AMINE-IBRA/AMINE-IBRA/678c8b8eb78c160c1112af3b62ae067c5c70dfb6/assets/button-portfolio.svg" width="176" alt="Portfolio" /></a>
+<a href="https://mohamedamineelibrahimi.dev/"><img src="https://raw.githubusercontent.com/AMINE-IBRA/AMINE-IBRA/678c8b8eb78c160c1112af3b62ae067c5c70dfb6/assets/button-portfolio.svg" width="176" alt="Portfolio" /></a>
 
 <br />
 
-[All repositories ↗](https://github.com/AMINE-IBRA?tab=repositories) &nbsp; / &nbsp; [LinkedIn ↗](https://www.linkedin.com/in/el-ibrahimi-mohamed-amine-630891395/)
+[All repositories ↗](https://github.com/AMINE-IBRA?tab=repositories) &nbsp; / &nbsp; [LinkedIn ↗](https://ma.linkedin.com/in/mohamed-amine-el-ibrahimi-630891395)
 
 </div>
 
@@ -34,7 +34,7 @@ I’m **Mohamed Amine**, a Full Stack Web Developer and designer. I build comple
 
 <img src="https://raw.githubusercontent.com/AMINE-IBRA/AMINE-IBRA/678c8b8eb78c160c1112af3b62ae067c5c70dfb6/assets/capabilities.svg" width="100%" alt="What I build: SaaS products, web apps, websites and interface design." />
 
-I also work on responsive websites, landing pages, visual identity, and UI/UX design. My [portfolio](https://mohamedamineelibrahimi.vercel.app/) shows that side of the work.
+I also work on responsive websites, landing pages, visual identity, and UI/UX design. My [portfolio](https://mohamedamineelibrahimi.dev/) shows that side of the work.
 
 ## Selected work
 
@@ -89,6 +89,6 @@ Earlier builds and smaller experiments. I’m now working toward deeper backend 
 
 ---
 
-<a href="https://mohamedamineelibrahimi.vercel.app/"><img src="https://raw.githubusercontent.com/AMINE-IBRA/AMINE-IBRA/678c8b8eb78c160c1112af3b62ae067c5c70dfb6/assets/closing.svg" width="100%" alt="Build things worth opening twice. Open portfolio." /></a>
+<a href="https://mohamedamineelibrahimi.dev/"><img src="https://raw.githubusercontent.com/AMINE-IBRA/AMINE-IBRA/678c8b8eb78c160c1112af3b62ae067c5c70dfb6/assets/closing.svg" width="100%" alt="Build things worth opening twice. Open portfolio." /></a>
 
-[Portfolio ↗](https://mohamedamineelibrahimi.vercel.app/) &nbsp; / &nbsp; [LinkedIn ↗](https://www.linkedin.com/in/el-ibrahimi-mohamed-amine-630891395/) &nbsp; / &nbsp; [Email ↗](mailto:mohamedamineelibrahimi1@gmail.com) &nbsp; / &nbsp; [GitHub ↗](https://github.com/AMINE-IBRA?tab=repositories)
+[Portfolio ↗](https://mohamedamineelibrahimi.dev/) &nbsp; / &nbsp; [LinkedIn ↗](https://ma.linkedin.com/in/mohamed-amine-el-ibrahimi-630891395) &nbsp; / &nbsp; [Email ↗](mailto:mohamedamineelibrahimi1@gmail.com) &nbsp; / &nbsp; [GitHub ↗](https://github.com/AMINE-IBRA?tab=repositories)
